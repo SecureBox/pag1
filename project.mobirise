@@ -18,7 +18,8 @@
         "isRoundedButtons": true
       },
       "additionalSetColors": [
-        "#ea1717"
+        "#ea1717",
+        "#cccccc"
       ]
     },
     "path": "@PROJECT_PATH@",
@@ -74,7 +75,7 @@
           },
           "title": "<span style=\"font-weight: normal;\">Николай </span><br><span style=\"font-weight: normal;\">Бабкин</span>",
           "text": "эксперт по развитию личностности,<br> бизнес тренер с 2012год, <br>автор курса \"Жизнь с нуля\", <br>автор 5 фильмов по развитию личности.",
-          "buttons": "<a data-app-btn=\"true\" href=\"http://mobirise.com\" class=\"btn btn-primary\" role=\"button\">learn more</a>",
+          "buttons": "<a data-app-btn=\"true\" href=\"index.html#subscribe2-o\" class=\"btn btn-primary\" role=\"button\">Хочу тренинг<br></a>",
           "alias": "spacem/components",
           "_tags": [
             "Тема"
@@ -228,14 +229,14 @@
             "overlayColor": "#151515",
             "overlayOpacity": 0.75
           },
-          "title1": "Projects",
-          "title2": "Years",
-          "title3": "Clients",
-          "title4": "Days",
-          "number1": "183",
-          "number2": "1",
-          "number3": "47",
-          "number4": "583",
+          "title1": "Семинаров",
+          "title2": "Лет",
+          "title3": "Успешных бизнесов",
+          "title4": "Клиентов",
+          "number1": "120",
+          "number2": "12",
+          "number3": "8",
+          "number4": "568",
           "alias": "spacem/components",
           "_tags": [
             "Тема"
@@ -311,10 +312,10 @@
           "list2": "<div>Развитие в ходе жизни является частью успеха, кто-то развивает свой бизнес, кто-то развивается или планирует развиваться по карьерной лестнице. Не зависимо какой путь вы выбрали кадры являются важной частью компании. Как получить высокую должность или как подобрать эффективного специалиста, который будет развивать бизнес вы узнаете из этого курса.</div><div><br></div><div>-типы сотрудников;</div><div>-кому отдают предпочтение;</div><div>-выявление сильных сторон;</div><div>-прокачка слабых сторон;</div><div>-создание профессионального резюме;</div><div>-настройка на вакансию;</div><div>-прохождение/прием собеседования.</div><div><br></div>",
           "list3": "<ul class=\"list-group list-group-flush\"><li class=\"list-group-item\"><span style=\"background-color: transparent;\">Лидерами не рождаются! Не каждому лидеру удается реализовать себя, достичь больших высот. Жизнь часто ставит перед нами выбор: достичь (всего), либо потерять (все). Как развиваться самому и вдохновлять людей на покорение новых вершин, узнаете из курса.</span></li><li class=\"list-group-item\"><span style=\"background-color: transparent;\">-составляющие успеха;</span></li><li class=\"list-group-item\"><span style=\"background-color: transparent;\">-стратегии мышление;</span></li><li class=\"list-group-item\"><span style=\"background-color: transparent;\">-с чего начать;</span></li><li class=\"list-group-item\"><span style=\"background-color: transparent;\">-делай то, что не нравиться неудачникам;</span></li><li class=\"list-group-item\"><span style=\"background-color: transparent;\">-как привлечь денежную энергию;</span></li><li class=\"list-group-item\"><span style=\"background-color: transparent;\">-уникальный бизнес. &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;</span><br></li></ul>",
           "list4": "<ul class=\"list-group list-group-flush\"><li class=\"list-group-item\">Многие люди, добившись успеха в карьере или бизнесе не стали счастливее. На пути к успеху они потеряли или испортили отношения с близкими и друзьями.</li><li class=\"list-group-item\"> </li><li class=\"list-group-item\">Они еще помнят, когда занимались хобби. Дело в том, что у них разное отношение к успеху и своей жизни.&nbsp;</li><li class=\"list-group-item\">-жизнь=бизнес проект;&nbsp;</li><li class=\"list-group-item\">-параметры счастья;</li><li class=\"list-group-item\">-управление системой счастья;</li><li class=\"list-group-item\">-методы достижения счастья. &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;&nbsp;</li><li class=\"list-group-item\"><br></li></ul>",
-          "button1": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-black\">view more</a>",
-          "button2": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-black\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd\">view more</a>",
-          "button3": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-black\">view more</a>",
-          "button4": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-black\">view more</a>",
+          "button1": "<a data-app-btn=\"true\" href=\"index.html#subscribe2-o\" class=\"btn btn-black\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd\">хочу тренинг</a>",
+          "button2": "<a data-app-btn=\"true\" href=\"index.html#subscribe2-o\" class=\"btn btn-black\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd\">ХОЧУ ТРЕНИНГ</a>",
+          "button3": "<a data-app-btn=\"true\" href=\"index.html#subscribe2-o\" class=\"btn btn-black\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd\">ХОЧУ ТРЕНИНГ</a>",
+          "button4": "<a data-app-btn=\"true\" href=\"index.html#subscribe2-o\" class=\"btn btn-black\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd\">ХОЧУ ТРЕНИНГ</a>",
           "alias": "spacem/components",
           "_tags": [
             "Тема"
@@ -470,7 +471,7 @@
               "url": "http://www.youtube.com/watch?v=uNCr7NdOJgw"
             },
             "overlay": true,
-            "overlayColor": "#ccc",
+            "overlayColor": "#cccccc",
             "overlayOpacity": 0.75,
             "googleMap": {
               "placeId": "ChIJn6wOs6lZwokRLKy1iqRcoKw",
@@ -552,7 +553,7 @@
             "overlayOpacity": 0.5
           },
           "text": "",
-          "icons": "<a data-app-btn=\"true\" class=\"btn btn-social\" title=\"Twitter\" target=\"_blank\" href=\"https://twitter.com/mobirise\" data-toolbar=\"-mbrBtnAdd,-mbrBtnMove,-mbrFonts,-mbrFontSize,-mbrBtnColor\"><i class=\"socicon socicon-twitter\"></i></a> <a data-app-btn=\"true\" class=\"btn btn-social\" title=\"Facebook\" target=\"_blank\" href=\"https://www.facebook.com/pages/Mobirise/1616226671953247\" data-toolbar=\"-mbrBtnAdd,-mbrBtnMove,-mbrFonts,-mbrFontSize,-mbrBtnColor\"><i class=\"socicon socicon-facebook\"></i></a>  <a data-app-btn=\"true\" class=\"btn btn-social\" title=\"YouTube\" target=\"_blank\" href=\"https://www.youtube.com/channel/UCt_tncVAetpK5JeM8L-8jyw\" data-toolbar=\"-mbrBtnAdd,-mbrBtnMove,-mbrFonts,-mbrFontSize,-mbrBtnColor\"><i class=\"socicon socicon-youtube\"></i></a> <a data-app-btn=\"true\" class=\"btn btn-social\" title=\"Instagram\" target=\"_blank\" href=\"https://instagram.com/\" data-toolbar=\"-mbrBtnAdd,-mbrBtnMove,-mbrFonts,-mbrFontSize,-mbrBtnColor\"><i class=\"socicon socicon-instagram\"></i></a> <a data-app-btn=\"true\" class=\"btn btn-social\" title=\"Pinterest\" target=\"_blank\" href=\"https://www.pinterest.com/mobirise/\" data-toolbar=\"-mbrBtnAdd,-mbrBtnMove,-mbrFonts,-mbrFontSize,-mbrBtnColor\"><i class=\"socicon socicon-pinterest\"></i></a>  <a data-app-btn=\"true\" class=\"btn btn-social\" title=\"LinkedIn\" target=\"_blank\" href=\"https://www.linkedin.com/in/mobirise\" data-toolbar=\"-mbrBtnAdd,-mbrBtnMove,-mbrFonts,-mbrFontSize,-mbrBtnColor\"><i class=\"socicon socicon-linkedin\"></i></a> <a data-app-btn=\"true\" class=\"btn btn-social\" title=\"VKontakte\" target=\"_blank\" href=\"#\" data-toolbar=\"-mbrBtnAdd,-mbrBtnMove,-mbrFonts,-mbrFontSize,-mbrBtnColor\"><i class=\"socicon socicon-vkontakte\"></i></a> <a data-app-btn=\"true\" class=\"btn btn-social\" title=\"Odnoklassniki\" target=\"_blank\" href=\"#\" data-toolbar=\"-mbrBtnAdd,-mbrBtnMove,-mbrFonts,-mbrFontSize,-mbrBtnColor\"><i class=\"socicon socicon-odnoklassniki\"></i></a> ",
+          "icons": "<a data-app-btn=\"true\" class=\"btn btn-social\" title=\"Twitter\" target=\"_blank\" href=\"https://twitter.com/\" data-toolbar=\"-mbrBtnAdd,-mbrBtnMove,-mbrFonts,-mbrFontSize,-mbrBtnColor\"><i class=\"socicon socicon-twitter\"></i></a> <a data-app-btn=\"true\" class=\"btn btn-social\" title=\"Facebook\" target=\"_blank\" href=\"https://www.facebook.com/\" data-toolbar=\"-mbrBtnAdd,-mbrBtnMove,-mbrFonts,-mbrFontSize,-mbrBtnColor\"><i class=\"socicon socicon-facebook\"></i></a>  <a data-app-btn=\"true\" class=\"btn btn-social\" title=\"YouTube\" target=\"_blank\" href=\"https://www.youtube.com/\" data-toolbar=\"-mbrBtnAdd,-mbrBtnMove,-mbrFonts,-mbrFontSize,-mbrBtnColor\"><i class=\"socicon socicon-youtube\"></i></a> <a data-app-btn=\"true\" class=\"btn btn-social\" title=\"Instagram\" target=\"_blank\" href=\"https://instagram.com/\" data-toolbar=\"-mbrBtnAdd,-mbrBtnMove,-mbrFonts,-mbrFontSize,-mbrBtnColor\"><i class=\"socicon socicon-instagram\"></i></a> <a data-app-btn=\"true\" class=\"btn btn-social\" title=\"Pinterest\" target=\"_blank\" href=\"https://www.pinterest.com/\" data-toolbar=\"-mbrBtnAdd,-mbrBtnMove,-mbrFonts,-mbrFontSize,-mbrBtnColor\"><i class=\"socicon socicon-pinterest\"></i></a>  <a data-app-btn=\"true\" class=\"btn btn-social\" title=\"LinkedIn\" target=\"_blank\" href=\"https://www.linkedin.com/\" data-toolbar=\"-mbrBtnAdd,-mbrBtnMove,-mbrFonts,-mbrFontSize,-mbrBtnColor\"><i class=\"socicon socicon-linkedin\"></i></a> <a data-app-btn=\"true\" class=\"btn btn-social\" title=\"VKontakte\" target=\"_blank\" href=\"vk.com\" data-toolbar=\"-mbrBtnAdd,-mbrBtnMove,-mbrFonts,-mbrFontSize,-mbrBtnColor\"><i class=\"socicon socicon-vkontakte\"></i></a> <a data-app-btn=\"true\" class=\"btn btn-social\" title=\"Odnoklassniki\" target=\"_blank\" href=\"ok.ru\" data-toolbar=\"-mbrBtnAdd,-mbrBtnMove,-mbrFonts,-mbrFontSize,-mbrBtnColor\"><i class=\"socicon socicon-odnoklassniki\"></i></a> ",
           "alias": "spacem/components",
           "_tags": [
             "Тема"
